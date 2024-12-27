@@ -1,5 +1,5 @@
 import unittest
-from linear import linear_search
+from lab1.linear import linear_search
 
 class SearchTestCase(unittest.TestCase):
     def test_linear_search(self):

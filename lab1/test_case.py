@@ -1,6 +1,6 @@
 import unittest
-from binary import binary_search
-from linear import linear_search
+from lab1.binary import binary_search
+from lab1.linear import linear_search
 
 
 class TestLinearSearch(unittest.TestCase):

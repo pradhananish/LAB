@@ -1,6 +1,6 @@
 import random
-from binary import binary_search
-from linear import linear_search
+from lab1.binary import binary_search
+from lab1.linear import linear_search
 from time import time
 from matplotlib import pyplot as plt 
 
